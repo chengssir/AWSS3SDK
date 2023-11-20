@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'AWSS3SDK_Example' do
+  pod 'AWSS3SDK', :path => '../'
+
+  target 'AWSS3SDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

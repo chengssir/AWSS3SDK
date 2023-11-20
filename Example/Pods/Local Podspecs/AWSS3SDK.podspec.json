@@ -1,0 +1,22 @@
+{
+  "name": "AWSS3SDK",
+  "version": "0.1.0",
+  "summary": "A short description of AWSS3SDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/guoshuai.cheng@holla.world/AWSS3SDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guoshuai.cheng@holla.world": "guoshuai.cheng@holla.world"
+  },
+  "source": {
+    "git": "https://github.com/guoshuai.cheng@holla.world/AWSS3SDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AWSS3SDK/Classes/**/*"
+}

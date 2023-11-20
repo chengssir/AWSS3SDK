@@ -1,0 +1,6 @@
+framework module Pods_AWSS3SDK_Tests {
+  umbrella header "Pods-AWSS3SDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
