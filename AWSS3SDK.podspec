@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AWSS3SDK'
-  s.version          = '2.4.3'
+  s.version          = '2.4.4'
   s.summary          = 'A short description of AWSS3Service.'
 
 
@@ -24,5 +24,5 @@ Pod::Spec.new do |s|
   
   s.requires_arc = true
   s.dependency 'AWSS3Core'
-
+  s.resource_bundles = {'AWSS3SDK' => ['AWSS3SDK/PrivacyInfo.xcprivacy']}
 end
